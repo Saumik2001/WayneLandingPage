@@ -1,0 +1,32 @@
+
+.container{
+    height:1100px;
+}
+#formdata{
+    margin: 0px 36px;
+}
+body{
+    background: url(/pictures/mohammad-rahmani-_Fx34KeqIEw-unsplash.jpg)no-repeat center center/fixed;
+    position:relative;
+    height: 100%;
+    width: 100%;
+}
+
+#thebox{
+    display: flex;
+    flex-direction: column;
+}
+.vl{
+    display: none;
+    height: 0px;
+}
+.h2{
+    font-size:1rem;
+}
+#intro{
+    font-size:0.7rem;
+    width: 83%;
+}
+footer{
+    font-size: 0.6rem;;
+}

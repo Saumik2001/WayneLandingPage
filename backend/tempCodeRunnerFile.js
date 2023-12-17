@@ -1,0 +1,1 @@
+res.send("You have succesfully enrolled");
